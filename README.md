@@ -9,4 +9,4 @@ The incredible Hulk needs to let off some steam by fighting baddies throughout t
   
   -An element numbered -1 represents a sector containing civilians or businesses that the hulk cannot beat up
   
-The Hulk always begins at the top left corner of the grid and his goal is to get to the bottom right corner. He never attempts to move down or to the right. Write a program that explores all the possible valid paths the Hulk can take and determine the largest number of baddies that the hulk could encounter in one valid path.
+The Hulk always begins at the top left corner of the grid and his goal is to get to the bottom right corner. He only attempts to move down or to the right. Write a program that explores all the possible valid paths the Hulk can take and determine the largest number of baddies that the hulk could encounter in one valid path.
